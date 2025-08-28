@@ -47,3 +47,5 @@ Existe 10% de chance de uma das outras turmas encontrar a pedra e ganhar +20 pon
 Bônus secreto para Grifinória 🦁
 
 Se existir uma turma chamada Grifinoria, ela recebe +20 pontos no final.
+
+Hogwarts Legacy – Site oficial (Português-Brasil): a página principal em português brasileiro apresenta o RPG de ação e mundo aberto ambientado no universo de Harry Potter, descrevendo o jogo como uma experiência imersiva em Hogwarts que permite ao jogador aprender feitiços, preparar poções, explorar locais como o castelo, Hogsmeade e a Floresta Proibida, além de enfrentar bruxos das trevas e influenciar o destino do mundo mágico — com o slogan “Seu legado é o que você faz dele” https://www.hogwartslegacy.com/pt-br.
